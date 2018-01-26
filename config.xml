@@ -3,7 +3,7 @@
     
     <name>All Tech News FR</name>
     <description>Blog de news high-tech</description>
-    <author email="" href="https://alltechnewsfr.wordpress.com">All tech news fr</author>
+    <author email="" href="alltechnewsfr.wordpress.com">All tech news fr</author>
 
     <feature name="http://api.phonegap.com/1.0/device" />
     
@@ -37,6 +37,6 @@
     <gap:splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
-    <content src="http://alltechnewsfr.wordpress.com/" />
+    <content src="alltechnewsfr.wordpress.com/" />
     <access origin="*" subdomains="true" />
 </widget>
