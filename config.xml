@@ -9,7 +9,7 @@
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
     
-
+<plugin name="cordova-plugin-splashscreen" spec="~5.0.1" />
 <plugin name="cordova-plugin-device" spec="~2.0.1" />
 <plugin name="cordova-plugin-inappbrowser" spec="~2.0.1" />
 <plugin name="cordova-plugin-network-information" spec="~2.0.1" />
