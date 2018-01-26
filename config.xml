@@ -9,12 +9,10 @@
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
     
-    <gap:plugin name="org.apache.cordova.device" />
-    <gap:plugin name="org.apache.cordova.splashscreen" />
-    <gap:plugin name="org.apache.cordova.inappbrowser" />
-    <gap:plugin name="org.apache.cordova.dialogs" />
-    <gap:plugin name="org.apache.cordova.network-information" />
-    <gap:plugin name="com.simplec.plugins.localnotification" />
+    <plugin name="cordova-plugin-device" source="pgb" spec="~1"  />
+<plugin name="cordova-plugin-splashscreen" source="pgb" spec="~1"  />
+<plugin name="cordova-plugin-inappbrowser" source="pgb" spec="~1"  />
+<plugin name="cordova-plugin-network-information" source="pgb" spec="~1"  />
 
 	<icon src="icon.png" />
 	
